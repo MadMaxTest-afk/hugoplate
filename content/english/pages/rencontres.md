@@ -65,5 +65,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 | Machin|   Machin   |    Machin |
 
 
-
-<iframe width="1000" height="615" src="https://framagenda.org/apps/calendar/embed/C8nS4MLRiZb5yXbP"></iframe>
+<div class="container">
+<iframe width="1000" height="615" src="https://framagenda.org/apps/calendar/embed/C8nS4MLRiZb5yXbP"></iframe></div>
