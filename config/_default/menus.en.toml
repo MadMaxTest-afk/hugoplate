@@ -1,0 +1,25 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Accueil"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Qui sommes-nous ?"
+url = "/authors"
+weight = 2
+
+[[main]]
+name = "Profession de foi"
+url = "/elements"
+weight = 3
+
+[[main]]
+name = "Rencontres"
+url = "/rencontres"
+weight = 4
+
+
+
