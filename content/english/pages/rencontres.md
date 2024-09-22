@@ -7,7 +7,7 @@ description: "This is meta description"
 # save as draft
 draft: false
 ---
-> Perdre sa vie à la gagner.
+> Pour ne pas perdre sa vie à la gagner...
 
 
 <hr>
