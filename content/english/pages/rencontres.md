@@ -74,6 +74,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 |  Atelier | 01/10/2024  | 10:00 |  Vauban |  524 |
 |  Atelier | 01/10/2024  | 10:00 |  Vauban |  524 |
 
-<hr>
+
  
- <iframe src="https://api.zotero.org/users/11152/collections/2RVNCXT2/items?format=bib&style=asa" frameborder="0" height="600" width="100%"/>
+ 
