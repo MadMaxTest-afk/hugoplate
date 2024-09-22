@@ -64,5 +64,14 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 | Machine|   Machine    |    Machine |
 | Machin|   Machin   |    Machin |
 
+<hr>
 
- <iframe width="400" height="215" src="https://framagenda.org/apps/calendar/embed/C8nS4MLRiZb5yXbP"></iframe>
+### Agenda
+
+|  Type |Date   | Heure |  Localisation | Salle  |
+|---|---|---|---|---|
+|  Atelier | 01/10/2024  | 10:00 |  Vauban |  524 |
+|  Atelier | 01/10/2024  | 10:00 |  Vauban |  524 |
+|  Atelier | 01/10/2024  | 10:00 |  Vauban |  524 |
+
+ 
