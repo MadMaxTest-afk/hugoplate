@@ -1,20 +1,8 @@
 ---
-title: William Jacob
-email: williamjacob@email.com
+title: Élodie Moreau
+email: elodie.moreau@uvsq.fr
 image: "/images/em.png"
 description: this is meta description
-social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
-
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
-
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
 ---
 
 **Chargée de communication vie de campus au sein de la Direction de la coordination de la vie universitaire**, je suis élue à la CFVU depuis 2015.
