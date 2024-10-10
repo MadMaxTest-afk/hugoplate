@@ -1,20 +1,13 @@
 ---
-title: John Doe
-email: johndoe@email.com
+title: François Théron
+email: francois.theron@uvsq.fr
 image: "/images/ft.png"
 description: this is meta description
 social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com
+    link: https://twitter.com/frtheron
 
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
 ---
 
 Je suis **éditeur et responsable éditorial** au laboratoire Professions, Institutions, Temporalités (UMR 8085 CNRS/UVSQ/Paris Saclay), IGE ITRF depuis 2008, et suis spécialiste des pratiques et politiques de science ouverte en matière d’édition.
