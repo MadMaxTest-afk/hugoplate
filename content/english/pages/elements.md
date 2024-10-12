@@ -251,22 +251,9 @@ flowchart TD
 
 
 
-```mermaid
-pie title Considérez-vous vos conditions de travail
-    "Bonnes" : 67
-    "Moyennes" : 135
-    "Mauvaises" : 52
-```
 
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    title Considérez-vous vos conditions de travail
-    "Bonnes" : 67
-    "Moyennes" : 135
-    "Mauvaises" : 52
-    
-```
+
+# Considérez-vous vos conditions de travail
 
 ```mermaid
 ---
@@ -278,7 +265,7 @@ config:
   theme: neo-dark
 ---
 pie showData
-    title Key elements in Product X
+    title 
     "Calcium" : 42.96
     "Potassium" : 50.05
     "Magnesium" : 10.01
@@ -286,6 +273,5 @@ pie showData
     
 ```
 
-{{< image src="images/ct.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 
