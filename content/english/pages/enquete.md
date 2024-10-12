@@ -87,6 +87,23 @@ pie showData
 | Elle est prescrite par un ou une seul.e responsable hiérarchique                                                       |                 54 |
 | Elle est prescrite par plusieurs personnes (dont votre responsable hiérarchique) avec des ordres contradictoires       |                 52 |
 
+***
+## Considérez-vous suffisant :
+
+| Aspect                                                                                                         |  Oui |  Non |
+|:---------------------------------------------------------------------------------------------------------------|-----:|-----:|
+| L’information sur Paris Saclay                                                                                 |   49 |  200 |
+| La communication interne à l’université                                                                        |   56 |  195 |
+| La communication interne à votre direction ou composante                                                       |   99 |  150 |
+| La reconnaissance de votre supérieur hiérarchique (autre que supérieur hiérarchique direct)                    |  106 |  130 |
+| L’information que vous donne votre (vos) supérieur(s) hiérarchique(s)                                          |  125 |  123 |
+| La reconnaissance de votre supérieur hiérarchique                                                              |  165 |   81 |
+| La confiance que vous accorde votre responsable hiérarchique (autre que responsable hiérarchique direct)       |  156 |   88 |
+| Le nombre de rencontres avec votre ou vos supérieurs hiérarchiques                                             |  161 |   89 |
+| La confiance que vous accorde votre responsable hiérarchique                                                   |  189 |   60 |
+| L’autonomie dont vous bénéficiez                                                                               |  212 |   41 |
+
+
 ### Estimez-vous que votre responsable hiérarchique assume ses responsabilités
 ```mermaid
 ---
