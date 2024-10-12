@@ -249,4 +249,12 @@ flowchart TD
 
 ***
 
-[![](https://mermaid.ink/img/pako:eNo9T7tuhDAQ_BVra3ICHGxwmaS9Kl3kxsJ7d5bARn6gcIgPynfkx-IjCVvtzsyOZlbonUYQMBkk0cQByauzwejvL4_3p9mlQGYXSO-sNtFkiugs9GpWZpCW5JHw4qzFIIEIwvg_eHYLHnBFmwNXKf-GP6KpoYAR_aiMzinWh0pCvOGIEkReNV5UGqIEabcsVSm698X2IKJPWIB36XoDcVFDyFeatIr4ZtTVq_FAMSd3_vzbc69bwKQsiBU-QVQtP3Fa13XOyJuKUl7AAoKVJ17SjvOuZYxRyrYC7s5l10xUVc142TyXbdkxWu12Hzv5SLX9AO7FaV4?type=png)](https://mermaid.live/edit#pako:eNo9T7tuhDAQ_BVra3ICHGxwmaS9Kl3kxsJ7d5bARn6gcIgPynfkx-IjCVvtzsyOZlbonUYQMBkk0cQByauzwejvL4_3p9mlQGYXSO-sNtFkiugs9GpWZpCW5JHw4qzFIIEIwvg_eHYLHnBFmwNXKf-GP6KpoYAR_aiMzinWh0pCvOGIEkReNV5UGqIEabcsVSm698X2IKJPWIB36XoDcVFDyFeatIr4ZtTVq_FAMSd3_vzbc69bwKQsiBU-QVQtP3Fa13XOyJuKUl7AAoKVJ17SjvOuZYxRyrYC7s5l10xUVc142TyXbdkxWu12Hzv5SLX9AO7FaV4)
+
+
+```mermaid
+pie title Considérez-vous vos conditions de travail
+    "Bonnes" : 67
+    "Moyennes" : 135
+    "Mauvaises" : 52
+```
+
