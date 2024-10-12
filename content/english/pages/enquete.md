@@ -28,6 +28,25 @@ pie showData
     
 ```
 ***
+## Quels sont vos principaux motifs d’insatisfaction
+
+| Motif d'insatisfaction              | Nombre de réponses |
+|-------------------------------------|--------------------:|
+| Effectifs insuffisants              |                131 |
+| Manque de reconnaissance            |                130 |
+| Manque de considération             |                121 |
+| Manque d’informations descendantes  |                118 |
+| Lourdeur des procédures             |                 97 |
+| Mauvaise ambiance                   |                 65 |
+| Formations insuffisantes            |                 64 |
+| Pression de la hiérarchie           |                 64 |
+| Charge de travail trop importante   |                 71 |
+| Rythme de travail élevé             |                 48 |
+| Mauvaises conditions matérielles    |                 43 |
+| Manque d’informations ascendantes   |                 28 |
+| Outils trop complexes               |                 25 |
+
+***
 ## Depuis 2020, considérez-vous que vos conditions de travail 
 
 ```mermaid
@@ -537,25 +556,7 @@ pie showData
 ```
 ***
 
-## Quels sont vos principaux motifs d’insatisfaction
 
-| Motif d'insatisfaction              | Nombre de réponses |
-|-------------------------------------|--------------------:|
-| Effectifs insuffisants              |                131 |
-| Manque de reconnaissance            |                130 |
-| Manque de considération             |                121 |
-| Manque d’informations descendantes  |                118 |
-| Lourdeur des procédures             |                 97 |
-| Mauvaise ambiance                   |                 65 |
-| Formations insuffisantes            |                 64 |
-| Pression de la hiérarchie           |                 64 |
-| Charge de travail trop importante   |                 71 |
-| Rythme de travail élevé             |                 48 |
-| Mauvaises conditions matérielles    |                 43 |
-| Manque d’informations ascendantes   |                 28 |
-| Outils trop complexes               |                 25 |
-
-***
 
 
 
