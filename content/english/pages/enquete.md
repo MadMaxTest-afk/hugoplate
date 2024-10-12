@@ -11,14 +11,21 @@ draft: false
 # Considérez-vous vos conditions de travail
 
 ```mermaid
-
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
 pie showData
-    title Considérez-vous vos conditions de travail
-    "Bonnes" : 67
-    "Moyennes" : 135
-    "Mauvaises" : 52
-     
+    title 
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
+    
 ```
 
 
