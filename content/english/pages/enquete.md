@@ -259,4 +259,200 @@ pie showData
 
 ```
 ***
+## Depuis combien de temps occupez-vous votre poste actuel ?
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Plus de 3 ans" : 168
+    "Entre 1 an et 3 ans" : 60
+    "Moins d’un an" : 26
+
+```
+***
+## Avez-vous une fiche de poste
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Oui" : 207
+    "Non" : 24
+    "Je ne sais pas" : 23
+
+```
+***
+## Si oui, votre fiche de poste correspond-elle à vos missions ?
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Oui" : 159
+    "Non" : 43
+
+```
+***
+## Votre poste correspond-il à vos compétences ?
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Oui" : 149
+    "Non, je suis sous-exploité.e" : 48
+    "Non, je suis sur-exploité.e" : 29
+    "Non, on me demande d’assurer des missions qui n’ont rien à voir avec mon cœur de métier" : 21
+
+```
+***
+## Souhaiteriez-vous voir évoluer vos missions ?
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Oui" : 166
+    "Non" : 75
+
+```
+***
+## Avez-vous envisagé de changer de poste à cause de vos conditions de travail ?
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Oui" : 136
+    "Non" : 110
+
+```
+***
+## Dans votre service, UFR, ou direction y a-t-il des collègues qui ont quitté (le service, l’UFR, la direction) pour des raisons liées aux conditions de travail ?
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Oui" : 189
+    "Non" : 55
+
+```
+***
+## Avez-vous eu un entretien professionnel avec votre hiérarchie ces deux dernières années ?
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Oui" : 170
+    "Non" : 79
+
+```
+***
+## Si oui, étiez-vous en accord avec le contenu final de votre entretien professionnel ?
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Oui" : 140
+    "Non" : 54
+
+```
+***
+## Vos conditions de travail ont-elles engendré des conséquences sur votre état de santé (traitement médical, arrêt maladie) ?
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Non" : 152
+    "Oui" : 102
+
+```
+***
+## Avez-vous déjà consulté le médecin de prévention de l’UVSQ concernant la dégradation de votre état de santé en lien avec vos conditions de travail ?
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Non" : 197
+    "Oui" : 54
+
+```
+***
+## Si oui, est-ce que la situation s'est améliorée au sujet de vos conditions de travail ?
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Non" : 38
+    "Oui" : 15
+
+```
+***
 
