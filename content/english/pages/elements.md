@@ -258,3 +258,10 @@ pie title Considérez-vous vos conditions de travail
     "Mauvaises" : 52
 ```
 
+```mermaid
+pie title Considérez-vous vos conditions de travail
+    "Bonnes" : 67
+    "Moyennes" : 135
+    "Mauvaises" : 52
+```
+
