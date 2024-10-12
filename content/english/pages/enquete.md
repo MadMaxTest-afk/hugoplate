@@ -455,4 +455,85 @@ pie showData
 
 ```
 ***
+## Avez-vous vécu ou été témoin de situations qui selon vous pourraient être qualifiées de harcèlement (moral, sexuel…)
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Non" : 129
+    "Oui" : 119
+
+```
+***
+## Êtes-vous :
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Une femme" : 170
+    "Un homme" : 82
+
+```
+***
+## Votre catégorie (en tant que titulaire ou contractuel) ?
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "A" : 101
+    "B" : 101
+    "C" : 48
+
+```
+***
+## Encadrez-vous une équipe ?
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Non" : 179
+    "Oui" : 74
+
+```
+***
+## Trouvez-vous encore du sens à votre travail ?
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    "Oui" : 171
+    "Non" : 78
+
+```
+***
 
