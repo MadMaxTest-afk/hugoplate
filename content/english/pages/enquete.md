@@ -21,10 +21,10 @@ config:
 ---
 pie showData
     title 
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5
+    "Bonnes" : 67
+    "Moyennes" : 135
+    "Mauvaises" : 52
+    
     
 ```
 
