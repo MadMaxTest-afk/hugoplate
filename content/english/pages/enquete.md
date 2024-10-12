@@ -11,6 +11,7 @@ draft: false
 # Considérez-vous vos conditions de travail
 
 ```mermaid
+
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
     title Considérez-vous vos conditions de travail
