@@ -8,7 +8,7 @@ description: "This is meta description"
 draft: false
 ---
 
-## Présentation de l'enquête
+## L'enquête
 
 Les répondantes et répondants de l’enquête lancée entre juin et juillet 2024 par la CGT sont principalement des femmes (67 %). On note un équilibre entre les personnels A (40 %), B (40 %) mais, de fait, ils ou elles n’encadrent pas d’équipe (71 %). **En tout, le formulaire nous permet d’exploiter 256 soumissions**.
 
@@ -32,8 +32,9 @@ Concernant le télétravail, nous notons que 41 % des répondantes et répondan
 
 **Le chiffre le plus préoccupant : 48 % (119 réponses) des répondantes et répondants indiquent avoir vécu ou été témoins de situations qui pourraient être qualifiées de harcèlements (moral, sexuel…).**
 
+## Les résultats
 
-## Considérez-vous vos conditions de travail
+### Considérez-vous vos conditions de travail
 
 ```mermaid
 ---
@@ -53,7 +54,7 @@ pie showData
     
 ```
 ***
-## Quels sont vos principaux motifs d’insatisfaction
+### Quels sont vos principaux motifs d’insatisfaction
 
 | Motif d'insatisfaction              | Nombre de réponses |
 |-------------------------------------|--------------------:|
@@ -72,7 +73,7 @@ pie showData
 | Outils trop complexes               |                 25 |
 
 ***
-## Depuis 2020, considérez-vous que vos conditions de travail 
+### Depuis 2020, considérez-vous que vos conditions de travail 
 
 ```mermaid
 ---
@@ -93,7 +94,7 @@ pie showData
 ```
 
 ***
-## Considérez-vous suffisantes vos conditions matérielles
+### Considérez-vous suffisantes vos conditions matérielles
 | Aspect                                                | Suffisant | Insuffisant |
 |-------------------------------------------------------|----------:|------------:|
 | Vos conditions de restauration                        |       117 |         131 |
@@ -103,7 +104,7 @@ pie showData
 | Votre espace de travail                               |       219 |          33 |
 
 ***
-## Concernant la détermination de vos missions, quelle est votre situation ?
+### Concernant la détermination de vos missions, quelle est votre situation ?
 
 | Situation                                                                                                              | Nombre de réponses |
 |------------------------------------------------------------------------------------------------------------------------|--------------------:|
@@ -113,7 +114,7 @@ pie showData
 | Elle est prescrite par plusieurs personnes (dont votre responsable hiérarchique) avec des ordres contradictoires       |                 52 |
 
 ***
-## Considérez-vous suffisant :
+### Considérez-vous suffisant :
 
 | Aspect                                                                                                         |  Oui |  Non |
 |:---------------------------------------------------------------------------------------------------------------|-----:|-----:|
@@ -145,7 +146,7 @@ pie showData
 
 ```
 ***
-## Estimez-vous que votre hiérarchie (autre que votre responsable hiérarchique direct) assume ses responsabilités
+### Estimez-vous que votre hiérarchie (autre que votre responsable hiérarchique direct) assume ses responsabilités
 
 ```mermaid
 ---
@@ -163,7 +164,7 @@ pie showData
 ```
 
 ***
-## Est-ce qu'il s'agit de
+### Est-ce qu'il s'agit de
 
 ```mermaid
 ---
@@ -181,7 +182,7 @@ pie showData
 
 ```
 ***
-## Êtes-vous en conflit ou en désaccord avec votre supérieur hiérarchique direct
+### Êtes-vous en conflit ou en désaccord avec votre supérieur hiérarchique direct
 
 ```mermaid
 ---
@@ -199,7 +200,7 @@ pie showData
 
 ```
 ***
-## Êtes-vous en conflit avec vos responsables hiérarchiques (autre que le responsable hiérarchique direct)
+### Êtes-vous en conflit avec vos responsables hiérarchiques (autre que le responsable hiérarchique direct)
 ```mermaid
 ---
 config:
@@ -217,7 +218,7 @@ pie showData
 
 ```
 ***
-## Êtes-vous en conflit avec vos collaborateurs
+### Êtes-vous en conflit avec vos collaborateurs
 ```mermaid
 ---
 config:
@@ -235,7 +236,7 @@ pie showData
 
 ```
 ***
-## Êtes-vous en conflit avec vos collègues
+### Êtes-vous en conflit avec vos collègues
 ```mermaid
 ---
 config:
@@ -253,7 +254,7 @@ pie showData
 
 ```
 ***
-## Exercez-vous une partie de votre activité en télétravail ?
+### Exercez-vous une partie de votre activité en télétravail ?
 ```mermaid
 ---
 config:
@@ -270,7 +271,7 @@ pie showData
 
 ```
 ***
-## Si non, vous n'avez pas de télétravail car
+### Si non, vous n'avez pas de télétravail car
 ```mermaid
 ---
 config:
@@ -287,7 +288,7 @@ pie showData
 
 ```
 ***
-## En moyenne, combien de jours télétravaillez-vous par semaine ?
+### En moyenne, combien de jours télétravaillez-vous par semaine ?
 ```mermaid
 ---
 config:
@@ -305,7 +306,7 @@ pie showData
 
 ```
 ***
-## Est-ce que l'on vous a imposé le nombre de jours en télétravail ?
+### Est-ce que l'on vous a imposé le nombre de jours en télétravail ?
 ```mermaid
 ---
 config:
@@ -322,7 +323,7 @@ pie showData
 
 ```
 ***
-## Souhaiteriez-vous télétravailler davantage ?
+### Souhaiteriez-vous télétravailler davantage ?
 ```mermaid
 ---
 config:
@@ -338,7 +339,7 @@ pie showData
 
 ```
 ***
-## Depuis combien de temps occupez-vous votre poste actuel ?
+### Depuis combien de temps occupez-vous votre poste actuel ?
 ```mermaid
 ---
 config:
@@ -355,7 +356,7 @@ pie showData
 
 ```
 ***
-## Avez-vous une fiche de poste
+### Avez-vous une fiche de poste
 ```mermaid
 ---
 config:
@@ -372,7 +373,7 @@ pie showData
 
 ```
 ***
-## Si oui, votre fiche de poste correspond-elle à vos missions ?
+### Si oui, votre fiche de poste correspond-elle à vos missions ?
 ```mermaid
 ---
 config:
@@ -388,7 +389,7 @@ pie showData
 
 ```
 ***
-## Votre poste correspond-il à vos compétences ?
+### Votre poste correspond-il à vos compétences ?
 ```mermaid
 ---
 config:
@@ -406,7 +407,7 @@ pie showData
 
 ```
 ***
-## Souhaiteriez-vous voir évoluer vos missions ?
+### Souhaiteriez-vous voir évoluer vos missions ?
 ```mermaid
 ---
 config:
@@ -422,7 +423,7 @@ pie showData
 
 ```
 ***
-## Avez-vous envisagé de changer de poste à cause de vos conditions de travail ?
+### Avez-vous envisagé de changer de poste à cause de vos conditions de travail ?
 ```mermaid
 ---
 config:
@@ -438,7 +439,7 @@ pie showData
 
 ```
 ***
-## Dans votre service, UFR, ou direction y a-t-il des collègues qui ont quitté (le service, l’UFR, la direction) pour des raisons liées aux conditions de travail ?
+### Dans votre service, UFR, ou direction y a-t-il des collègues qui ont quitté (le service, l’UFR, la direction) pour des raisons liées aux conditions de travail ?
 ```mermaid
 ---
 config:
@@ -454,7 +455,7 @@ pie showData
 
 ```
 ***
-## Avez-vous eu un entretien professionnel avec votre hiérarchie ces deux dernières années ?
+### Avez-vous eu un entretien professionnel avec votre hiérarchie ces deux dernières années ?
 ```mermaid
 ---
 config:
@@ -470,7 +471,7 @@ pie showData
 
 ```
 ***
-## Si oui, étiez-vous en accord avec le contenu final de votre entretien professionnel ?
+### Si oui, étiez-vous en accord avec le contenu final de votre entretien professionnel ?
 ```mermaid
 ---
 config:
@@ -486,7 +487,7 @@ pie showData
 
 ```
 ***
-## Vos conditions de travail ont-elles engendré des conséquences sur votre état de santé (traitement médical, arrêt maladie) ?
+### Vos conditions de travail ont-elles engendré des conséquences sur votre état de santé (traitement médical, arrêt maladie) ?
 ```mermaid
 ---
 config:
@@ -502,7 +503,7 @@ pie showData
 
 ```
 ***
-## Avez-vous déjà consulté le médecin de prévention de l’UVSQ concernant la dégradation de votre état de santé en lien avec vos conditions de travail ?
+### Avez-vous déjà consulté le médecin de prévention de l’UVSQ concernant la dégradation de votre état de santé en lien avec vos conditions de travail ?
 ```mermaid
 ---
 config:
@@ -518,7 +519,7 @@ pie showData
 
 ```
 ***
-## Si oui, est-ce que la situation s'est améliorée au sujet de vos conditions de travail ?
+### Si oui, est-ce que la situation s'est améliorée au sujet de vos conditions de travail ?
 ```mermaid
 ---
 config:
@@ -534,7 +535,7 @@ pie showData
 
 ```
 ***
-## Avez-vous vécu ou été témoin de situations qui selon vous pourraient être qualifiées de harcèlement (moral, sexuel…)
+### Avez-vous vécu ou été témoin de situations qui selon vous pourraient être qualifiées de harcèlement (moral, sexuel…)
 ```mermaid
 ---
 config:
@@ -550,7 +551,7 @@ pie showData
 
 ```
 ***
-## Êtes-vous :
+### Êtes-vous :
 ```mermaid
 ---
 config:
@@ -566,7 +567,7 @@ pie showData
 
 ```
 ***
-## Votre catégorie (en tant que titulaire ou contractuel) ?
+### Votre catégorie (en tant que titulaire ou contractuel) ?
 ```mermaid
 ---
 config:
@@ -583,7 +584,7 @@ pie showData
 
 ```
 ***
-## Encadrez-vous une équipe ?
+### Encadrez-vous une équipe ?
 ```mermaid
 ---
 config:
@@ -599,7 +600,7 @@ pie showData
 
 ```
 ***
-## Trouvez-vous encore du sens à votre travail ?
+### Trouvez-vous encore du sens à votre travail ?
 ```mermaid
 ---
 config:
