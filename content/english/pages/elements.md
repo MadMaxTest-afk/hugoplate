@@ -259,13 +259,31 @@ pie title Considérez-vous vos conditions de travail
 ```
 
 ```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "10px"}} }%%
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
     title Considérez-vous vos conditions de travail
     "Bonnes" : 67
     "Moyennes" : 135
     "Mauvaises" : 52
     
-
 ```
+
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    title Key elements in Product X
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
+    
+```
+
 
