@@ -68,6 +68,15 @@ pie showData
 ```
 
 ***
+## Considérez-vous suffisantes vos conditions matérielles
+| Aspect                                                | Suffisant | Insuffisant |
+|-------------------------------------------------------|----------:|------------:|
+| Vos conditions de restauration                        |       117 |         131 |
+| Ambiance sonore et visuelle dans votre espace de travail |       162 |          87 |
+| Votre matériel informatique                           |       197 |          55 |
+| Votre mobilier                                        |       196 |          52 |
+| Votre espace de travail                               |       219 |          33 |
+
 
 ### Estimez-vous que votre responsable hiérarchique assume ses responsabilités
 ```mermaid
