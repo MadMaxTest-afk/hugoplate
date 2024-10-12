@@ -48,4 +48,40 @@ pie showData
     
 ```
 
+***
+
+```mermaid
+---
+config:
+  pie:
+    textPosition: 0.5
+  themeVariables:
+    pieOuterStrokeWidth: 5px
+  theme: neo-dark
+---
+pie showData
+    title Estimez-vous que votre responsable hiérarchique assume ses responsabilités
+    "Oui" : 181
+    "Non" : 69
+
+pie showData
+    title Estimez-vous que votre hiérarchie (autre que votre responsable hiérarchique direct) assume ses responsabilités
+    "Oui" : 119
+    "Non" : 127
+
+pie showData
+    title Est-ce qu'il s'agit de
+    "Toute la hiérarchie" : 45
+    "N+2" : 11
+    "N+1" : 10
+
+pie showData
+    title Êtes-vous en conflit ou en désaccord avec votre supérieur hiérarchique direct
+    "Jamais" : 141
+    "Parfois (2-3 fois par an)" : 81
+    "Souvent (2-3 fois par mois)" : 26
+
+    
+    
+```
 
