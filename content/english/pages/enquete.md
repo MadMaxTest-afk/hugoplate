@@ -41,9 +41,9 @@ config:
 ---
 pie showData
     title 
-    "Bonnes" : 133
-    "Moyennes" : 80
-    "Mauvaises" : 26
+    "se sont dégradées" : 133
+    "sont identiques" : 80
+    "se sont améliorées" : 26
     
     
 ```
