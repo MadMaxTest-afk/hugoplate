@@ -259,9 +259,13 @@ pie title Considérez-vous vos conditions de travail
 ```
 
 ```mermaid
-pie title Considérez-vous vos conditions de travail
-    "Bonnes" : 67
-    "Moyennes" : 135
-    "Mauvaises" : 52
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    title Key elements in Product X
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
+
 ```
 
