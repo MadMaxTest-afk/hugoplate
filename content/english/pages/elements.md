@@ -259,7 +259,7 @@ pie title Considérez-vous vos conditions de travail
 ```
 
 ```mermaid
-%%{init: {"pie": {"textPosition": 0.8}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "10px"}} }%%
 pie showData
     title Considérez-vous vos conditions de travail
     "Bonnes" : 67
