@@ -545,7 +545,13 @@ pie showData
 ***
 ## Considérez-vous suffisantes vos conditions matérielles
 
-![Conditions matérielles](https://quickchart.io/chart?c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Votre%20espace%20de%20travail%22%2C%22Votre%20mat%C3%A9riel%20informatique%22%2C%22Votre%20mobilier%22%2C%22Vos%20conditions%20de%20restauration%22%2C%22Ambiance%20sonore%20et%20visuelle%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Suffisant%22%2C%22data%22%3A%5B219%2C197%2C196%2C117%2C162%5D%2C%22backgroundColor%22%3A%22%234CAF50%22%7D%2C%7B%22label%22%3A%22Insuffisant%22%2C%22data%22%3A%5B33%2C55%2C52%2C131%2C87%5D%2C%22backgroundColor%22%3A%22%23F44336%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%2C%22stacked%22%3Afalse%7D%5D%2C%22yAxes%22%3A%5B%7B%22stacked%22%3Afalse%7D%5D%7D%2C%22plugins%22%3A%7B%22datalabels%22%3A%7B%22display%22%3Atrue%2C%22anchor%22%3A%22center%22%2C%22align%22%3A%22center%22%2C%22color%22%3A%22white%22%2C%22font%22%3A%7B%22size%22%3A12%2C%22weight%22%3A%22bold%22%7D%7D%7D%7D%2C%22plugins%22%3A%5B%22datalabels%22%5D%7D)
+![Conditions matérielles](https://quickchart.io/chart?width=1000&height=500&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Espace%20de%20travail%22%2C%22Mat%C3%A9riel%20informatique%22%2C%22Mobilier%22%2C%22Restauration%22%2C%22Ambiance%20sonore%20et%20visuelle%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Suffisant%22%2C%22data%22%3A%5B219%2C197%2C196%2C117%2C162%5D%2C%22backgroundColor%22%3A%22%234CAF50%22%7D%2C%7B%22label%22%3A%22Insuffisant%22%2C%22data%22%3A%5B33%2C55%2C52%2C131%2C87%5D%2C%22backgroundColor%22%3A%22%23F44336%22%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22layout%22%3A%7B%22padding%22%3A%7B%22left%22%3A100%7D%7D%2C%22legend%22%3A%7B%22position%22%3A%22right%22%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%2C%22plugins%22%3A%7B%22datalabels%22%3A%7B%22display%22%3Atrue%2C%22anchor%22%3A%22end%22%2C%22align%22%3A%22right%22%2C%22color%22%3A%22white%22%2C%22font%22%3A%7B%22size%22%3A12%2C%22weight%22%3A%22bold%22%7D%7D%7D%7D%7D)
+
+
+
+
+
+
 
 
 
