@@ -77,6 +77,15 @@ pie showData
 | Votre mobilier                                        |       196 |          52 |
 | Votre espace de travail                               |       219 |          33 |
 
+***
+## Concernant la détermination de vos missions, quelle est votre situation ?
+
+| Situation                                                                                                              | Nombre de réponses |
+|------------------------------------------------------------------------------------------------------------------------|--------------------:|
+| Elle est prescrite par un ou une responsable hiérarchique et discutée avec vous                                        |                 86 |
+| Elle est prescrite par plusieurs personnes (dont votre responsable hiérarchique) mais de manière coordonnée            |                 58 |
+| Elle est prescrite par un ou une seul.e responsable hiérarchique                                                       |                 54 |
+| Elle est prescrite par plusieurs personnes (dont votre responsable hiérarchique) avec des ordres contradictoires       |                 52 |
 
 ### Estimez-vous que votre responsable hiérarchique assume ses responsabilités
 ```mermaid
