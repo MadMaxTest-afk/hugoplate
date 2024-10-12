@@ -1,6 +1,6 @@
 ---
-title: Sam Wilson
-email: samwilson@email.com
+title: Maximilien Petit
+email: maximilien.petit@uvsq.fr
 image: "/images/mp.png"
 description: this is meta description
 social:
