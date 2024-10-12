@@ -286,6 +286,6 @@ pie showData
     
 ```
 
-{{< image src="images/mermaid-diagram-2024-10-12-082749.svg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/ct.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 
