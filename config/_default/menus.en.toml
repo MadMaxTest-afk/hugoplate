@@ -21,5 +21,10 @@ name = "Rencontres"
 url = "/rencontres"
 weight = 4
 
+[[main]]
+name = "Enquête BIATSS"
+url = "/enquete"
+weight = 5
+
 
 
