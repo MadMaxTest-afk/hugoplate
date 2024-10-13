@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Notre profession de foi"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "https://test-uhde.netlify.app/elements/"
 
 
 ---
