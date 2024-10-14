@@ -1,20 +1,10 @@
 ---
 title: Angèle Beauchet
-email: samwilson@email.com
-image: "/images/avatar.png"
+email: angele.beauchet@iut-velizy.uvsq.fr
+image: "/images/ab.png"
 description: this is meta description
-social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
-
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
-
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.test
+Secrétaire des départements GCGP, GMCAE et OMSA de l’IUT de Vélizy-Rambouillet.
+
+Arrivée à l'université en 2004 au sein de l'UFR des Sciences Sociales, j'ai intégré, depuis 2008, le site de l'IUT de Vélizy-Rambouillet. Actuellement, j'occupe la fonction de secrétaire des départements (GCGP), (GMCAE)et (OMSA). J'ai également été élue, entre 2018 et 2020, pour représenter les ADJENES lors des différentes Commissions Administratives Paritaires Académiques (CAPA) du Rectorat. De plus, j'exerce un rôle d'expertise des dossiers d’avancement AENES au sein de la commission d'études des personnels de l'université.
