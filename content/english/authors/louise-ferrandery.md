@@ -1,20 +1,12 @@
 ---
 title: Louise Ferrandery
-email: samwilson@email.com
+email: louise.ferrandery@uvsq.fr
 image: "/images/avatar.png"
 description: this is meta description
-social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
-
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
-
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.test
+<div align="left">Je suis chargée de valorisation de la recherche et des partenariats contractuelle pour deux laboratoires en SHS (DYPAC et CHCSC) à l'IECI.
+
+Je suis également membre du conseil de la Graduate School Humanités - Sciences du Patrimoine à l'échelle de Paris-Saclay.</div>
+
+
