@@ -1,7 +1,7 @@
 ---
 title: Camille Dupuy
 email: camille.dupuy@uvsq.fr
-image: "/images/cd.png"
+image: "/images/avatar.png"
 description: this is meta description
 ---
 
