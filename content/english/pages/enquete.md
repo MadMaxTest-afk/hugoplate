@@ -14,7 +14,7 @@ Les répondantes et répondants de l’enquête lancée entre juin et juillet 20
 
 Plus de la moitié des répondantes et répondants (53%) considèrent que leurs conditions de travail sont moyennes et 20% estiment qu'elles sont mauvaises. Surtout, les collègues trouvent **qu'elles se sont dégradées depuis 2020** (56%). Les principaux motifs d'insatisfaction sont **les effectifs insuffisants, le manque de reconnaissance, le manque de considération**.
 
-Ces conditions de travail dégradées peuvent inciter les personnels à envisager de quitter leur poste (55%) et ils estiment (77%) que **les conditions de travail sont à l'origine de beaucoup de départs** de collègues de services, UFR ou directions. Plus inquiétant, **les conditions de travail dégradées engendrent des problèmes de santé pour 4 répondants sur 10.
+Ces conditions de travail dégradées peuvent inciter les personnels à envisager de quitter leur poste (55%) et ils estiment (77%) que **les conditions de travail sont à l'origine de beaucoup de départs** de collègues de services, UFR ou directions. Plus inquiétant, **les conditions de travail dégradées engendrent des problèmes de santé pour 4 répondants sur 10**.
 
 Globalement, **les conditions matérielles sont bonnes**. On relève tout de même que les répondantes et répondants estiment que les conditions de restauration à l’UVSQ sont insuffisantes (131 réponses). Le nombre de réponses est élevé également pour l’ambiance sonore et visuelle sur l’espace de travail.
 
@@ -26,7 +26,7 @@ Pour ce qui est du management, plusieurs informations à prendre en considérati
 
 – Il ne semble pas y avoir de problème avec le responsable direct (N+1) concernant le fait d’assumer les responsabilités. **Toutefois, on relève un problème aux échelles plus hautes** (+2 et au-dessus).
 
-– On s’étonne que 32 % de répondantes et répondants n’aient pas eu d’entretien professionnel sur ces deux dernières années
+– On s’étonne que 32 % de répondantes et répondants n’aient pas eu d’entretien professionnel sur ces deux dernières années.
 
 Concernant le télétravail, nous notons que 41 % des répondantes et répondants à la question mentionnent le fait que **la hiérarchie refuse les demandes de télétravail**. De plus, dans 32 % des cas, le nombre de jours est imposé. Sans surprise, **les attentes sont fortes sur ce sujet** : 53 % des répondantes et répondants souhaitent télétravailler davantage. On note également à titre d’information que beaucoup de commentaires libres dans le questionnaire mettent l’accent sur ce sujet (en termes d’attentes et de crispations).
 
