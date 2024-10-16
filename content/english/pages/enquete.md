@@ -12,7 +12,9 @@ draft: false
 
 Les répondantes et répondants de l’enquête lancée entre juin et juillet 2024 par la CGT sont principalement des femmes (67 %). On note un équilibre entre les personnels A (40 %), B (40 %) mais, de fait, ils ou elles n’encadrent pas d’équipe (71 %). **En tout, le formulaire nous permet d’exploiter 256 soumissions**.
 
-Plus de la moitié des répondantes et répondants (53 %) considèrent que leurs conditions de travail sont moyennes, ils trouvent également qu’elles se sont dégradées depuis 2020 (56 %). **Les principaux motifs d’insatisfaction sont les effectifs insuffisants, le manque de reconnaissance, le manque de considération**. Ce problème incite les personnels à envisager de quitter leur poste (55 %) et ils estiment (77 %) que **les conditions de travail sont à l’origine de beaucoup de départs** de collègues de services, UFR ou directions. **Les conditions de travail dégradées engendrent des problèmes de santé** (40 %).
+Plus de la moitié des répondantes et répondants (53%) considèrent que leurs conditions de travail sont moyennes et 20% estiment qu'elles sont mauvaises. Surtout, les collègues trouvent **qu'elles se sont dégradées depuis 2020** (56%). Les principaux motifs d'insatisfaction sont **les effectifs insuffisants, le manque de reconnaissance, le manque de considération**.
+
+Ces conditions de travail dégradées peuvent inciter les personnels à envisager de quitter leur poste (55%) et ils estiment (77%) que **les conditions de travail sont à l'origine de beaucoup de départs** de collègues de services, UFR ou directions. Plus inquiétant, **les conditions de travail dégradées engendrent des problèmes de santé pour 4 répondants sur 10.
 
 Globalement, **les conditions matérielles sont bonnes**. On relève tout de même que les répondantes et répondants estiment que les conditions de restauration à l’UVSQ sont insuffisantes (131 réponses). Le nombre de réponses est élevé également pour l’ambiance sonore et visuelle sur l’espace de travail.
 
@@ -22,9 +24,7 @@ Pour ce qui est du management, plusieurs informations à prendre en considérati
 
  – 52 répondantes et répondants indiquent que la prescription des missions se fait par **plusieurs personnes avec des ordres contradictoires**.
 
-– Il ne semble pas y avoir de problème à une échelle N+1 concernant le fait d’assumer les responsabilités. **Toutefois, on relève un problème aux échelles plus hautes** (+2 et au-dessus).
-
-– 31 % des BIATSS se sentent sous-exploités (19 %) ou sur-exploités (12 %) sur leur poste. Le souhait de voir évoluer les missions est majoritaire (69 %).
+– Il ne semble pas y avoir de problème avec le responsable direct (N+1) concernant le fait d’assumer les responsabilités. **Toutefois, on relève un problème aux échelles plus hautes** (+2 et au-dessus).
 
 – On s’étonne que 32 % de répondantes et répondants n’aient pas eu d’entretien professionnel sur ces deux dernières années
 
