@@ -10,7 +10,7 @@ draft: false
 
 ## L'enquête
 
-Les répondantes et répondants de l’enquête lancée entre juin et juillet 2024 par la CGT sont principalement des femmes (67 %). On note un équilibre entre les personnels A (40 %), B (40 %) mais, de fait, ils ou elles n’encadrent pas d’équipe (71 %). **En tout, le formulaire nous permet d’exploiter 256 soumissions**.
+Les répondantes et répondants de l’enquête lancée entre juin et juillet 2024 par la CGT sont principalement des femmes (67 %). On note un équilibre entre les personnels A (40 %), B (40 %) et un taux de réponse moindre pour les agents de catégorie C (20%) mais, de fait, ils ou elles n’encadrent pas d’équipe (71 %). **En tout, le formulaire nous permet d’exploiter 256 soumissions**.
 
 Plus de la moitié des répondantes et répondants (53%) considèrent que leurs conditions de travail sont moyennes et 20% estiment qu'elles sont mauvaises. Surtout, les collègues trouvent **qu'elles se sont dégradées depuis 2020** (56%). Les principaux motifs d'insatisfaction sont **les effectifs insuffisants, le manque de reconnaissance, le manque de considération**.
 
