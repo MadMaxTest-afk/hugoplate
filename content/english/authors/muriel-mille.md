@@ -1,7 +1,7 @@
 ---
 title: Muriel Mille
 email: muriel.mille@uvsq.fr
-image: "/images/mm.png"
+image: "/images/avatar.png"
 description: this is meta description
 ---
 
