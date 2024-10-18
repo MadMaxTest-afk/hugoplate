@@ -33,7 +33,7 @@ Nous souhaitons inciter l’UVSQ à améliorer ses pratiques concernant le parta
 
 L’UVSQ mérite d’avoir **une véritable DRH de métier** et devrait urgemment **questionner les procédures RH en interne** (réponse aux agents et enseignants-chercheurs, respect des textes, écoute et bienveillance dans les dossiers les plus critiques, mise au point d’outils pour suivre les dossiers de recrutement). Le bon fonctionnement des RH est essentiel et constitue la colonne vertébrale d’un établissement : s’il nécessite des moyens supplémentaires pour être au service de toutes et tous, l’UVSQ doit faire le nécessaire.
 
-## Améliorer la transparence des dispositifs de prime et des rémunérations :
+## Améliorer la transparence des dispositifs de prime et des rémunérations
 
 Inciter l’UVSQ à publier chaque année **un rapport sur les primes d’intéressement des personnels BIATSS** et faire en sorte que l’examen des dossiers puisse être réalisé par des représentants des personnels comme c’était initialement prévu en 2020. Les personnels BIATSS devraient également avoir **toutes les informations à disposition** pour comprendre les dispositifs de prime, le fonctionnement du RIFSEEP (régime indemnitaire tenant compte des fonctions, des sujétions, de l’expertise et de l’engagement professionnel), le réexamen de l’IFSE (indemnité de fonctions, de sujétions et d’expertise), les modalités de la nouvelle bonification indiciaire (NBI).
 
