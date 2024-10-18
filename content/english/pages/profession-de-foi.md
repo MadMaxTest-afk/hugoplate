@@ -7,8 +7,6 @@ description: "This is meta description"
 # save as draft
 draft: false
 ---
-# Profession de foi
-
 # Pour la défense de l'université publique et de ses agents, du national à l'UVSQ
 
 Dans le contexte d'**une politique nationale très dégradée**, il est essentiel que les instances de l'UVSQ soient claires sur la défense de l'université publique et de ses agents. Les derniers mois ont montré que le gouvernement précédent comme l'actuel font peser des menaces lourdes sur le statut de fonctionnaire, celui des enseignants-chercheurs et sur le temps de travail des BIATSS (perte de jours de congé, passage aux 40h). Des réformes ont été poussées sans concertation et selon des calendriers intenables, avant d'être retirées au tout dernier moment, mettant tous les personnels dans des situations extrêmement difficiles. Le financement de l'université est aujourd'hui particulièrement inquiétant et la sous-dotation conduit à des politiques locales mortifères : recours massif aux heures complémentaires, course aux appels à projet, augmentation des tâches administratives... Il est nécessaire d'avoir des élus engagés sur ces questions et vigilants face aux décisions gouvernementales et à leur application à l'UVSQ.
@@ -73,7 +71,7 @@ Il convient d’**examiner l’efficience du dispositif de signalement** par rap
 
 Il convient d’écouter réellement les personnels concernant la mise en place du télétravail et revoir, si nécessaire, la charte liée à son fonctionnement. Il n’est pas normal par exemple qu’une demande de télétravail soit un véritable parcours du combattant pour les personnels qui bénéficient d’une RQTH (Reconnaissance de la Qualité de Travailleur Handicapé) ou pour celles et ceux qui demandent des aménagements lors d’un retour d’une longue maladie. Idem, il convient de s’interroger sur les inégalités qui subsistent entre services sur ces questions (de 2 à 3 jours dans certains laboratoires, 0.5 jours dans les bibliothèques). **Nous voulons une politique de télétravail, à l’écoute de toutes et tous, sans procédures infantilisantes** (la règle des deux jours consécutifs, le fonctionnement du télétravail flottant, etc.).
 
-## Améliorer l’accès au médecin de travail 
+## Améliorer l’accès au médecin du travail 
 
 L’UVSQ ne respecte pas ses obligations règlementaires en matière de visite chez le médecin du travail (tous les 5 ans pour chaque agent). Le service de santé est débordé par manque de personnel et il leur est impossible de mener à bien leurs missions de prévention collective. L’accès à la médecine du travail est un élément essentiel pour détecter et réduire les risques psychosociaux et la souffrance au travail et doit donc être un élément central de la politique de prévention de l’établissement.
 
@@ -87,13 +85,13 @@ Des avancées ont été faites concernant le bilan carbone de l’université et
 
 ## Une réflexion de fond sur la politique de recherche à l'UVSQ 
 
-Nous souhaitons proposer **une réflexion collective et un débat en commission recherche sur les grandes orientations de recherche au sein de l'UVSQ**. Plutôt que de réduire cette commission à une simple chambre d'enregistrement de conventions ou de projets ponctuels, ce pourrait être le lieu pour réfléchir à plus terme sur une politique scientifique ambitieuse et en complémentarité avec les autres universités du périmètre Saclay. Ce pourrait également être le lieu pour aborder la question des carrières au-delà des cas particuliers, en particulier pour établir un bilan de l'égalité homme-femme en recherche à l'UVSQ. 
+Nous souhaitons proposer **une réflexion collective et un débat en commission recherche sur les grandes orientations de recherche au sein de l'UVSQ**. Plutôt que de réduire cette commission à une simple chambre d'enregistrement de conventions ou de projets ponctuels, ce pourrait être le lieu pour réfléchir à plus long terme sur une politique scientifique ambitieuse et en complémentarité avec les autres universités du périmètre Saclay. Ce pourrait également être le lieu pour aborder la question des carrières au-delà des cas particuliers, en particulier pour établir un bilan de l'égalité homme-femme en recherche à l'UVSQ. 
 
 Dans un contexte de sous-dotation de l'université, il est nécessaire de **faciliter le financement de la recherche par fonds récurrents au niveau local**, sans procédure administrative complexe et appel à projet supplémentaire en interne. L'attribution des budgets des composantes doit faire l'objet de transparence et de dialogue.
 
 ## Tirer parti des structures de coordination de Paris-Saclay
 
-Il est indispensable de mieux **réfléchir à la présence de l'UVSQ dans les structures saclaysiennes**. C’est une opportunité de s’impliquer dans ces institutions pour défendre la recherche menée à l'UVSQ et ne pas abandonner, comme c'est un risque, la gouvernance de la recherche à Paris-Saclay. Mais cela ne doit pas se faire au détriment des personnels et du fonctionnement de l’UVSQ. L'UVSQ doit veiller à ce que les personnels n'absorbent pas seuls la charge de travail, en particulier administratif. Cela les met en danger et conduit à affaiblir les structures de recherches déjà existantes. 
+Il est indispensable de mieux **réfléchir à la présence de l'UVSQ dans les structures saclaysiennes**. C’est une opportunité de s’impliquer dans ces institutions pour défendre la recherche menée à l'UVSQ et ne pas abandonner, comme c'est un risque, la gouvernance de la recherche à Paris-Saclay. Mais cela ne doit pas se faire au détriment des personnels et du fonctionnement de l’UVSQ. L'UVSQ doit veiller à ce que les personnels n'absorbent pas seuls la charge de travail, en particulier administrative. Cela les met en danger et conduit à affaiblir les structures de recherche déjà existantes. 
 
 Il est en cela nécessaire de faire **un bilan du fonctionnement administratif des Graduate-Schools et des Objets interdisciplinaires**. Les rapports entre les laboratoires et ces structures, entre les personnels de chaque structure, peuvent parfois générer des tensions dont il faut tenir compte.
 
@@ -103,10 +101,10 @@ D'une manière générale, l'UVSQ ne doit pas avoir une position défensive sur 
 
 ## Une politique ambitieuse pour le premier comme le second cycle
 
-Une bonne partie des diplômes étant désormais portée par Paris-Saclay, il faut que l'UVSQ amplifie son action pour peser plus sur Paris-Saclay. Une des inquiétudes fortes concerne la division toujours plus forte entre le **niveau master** (GS) et le **niveau licence** (l'École universitaire de premier cycle). **L'UVSQ doit demander une nouvelle discussion sur cette séparation**, qui met en danger l'unité de notre université et plus largement du système d'enseignement supérieur et de recherche. La poursuite d'études des étudiants de licence dans nos masters doit être encouragée, dans la mesure où elle est un des instruments de la démocratisation sociale, à laquelle l'Université a toujours contribué.
+Une bonne partie des diplômes étant désormais portée par Paris-Saclay, il faut que l'UVSQ amplifie son action pour peser plus sur Paris-Saclay. Une des inquiétudes fortes concerne la division toujours plus importante entre le **niveau master** (GS) et le **niveau licence** (l'École universitaire de premier cycle). **L'UVSQ doit demander une nouvelle discussion sur cette séparation**, qui met en danger l'unité de notre université et plus largement du système d'enseignement supérieur et de recherche. La poursuite d'études des étudiants de licence dans nos masters doit être encouragée, dans la mesure où elle est un des instruments de la démocratisation sociale, à laquelle l'Université a toujours contribué.
 
-Il est aussi indispensable de rappeler que l'unification des diplômes autour de licences ou de masters Paris-Saclay n'abolit pas les distances géographiques, et nous devons continuer à **défendre l'existence de bassins propres à l'UVSQ, à Evry et à Saclay**, qui conduisent à des formations spécifiques pour ces territoires, même dans un cadre unifié. 
+Il est aussi indispensable de rappeler que l'unification des diplômes autour de licences ou de masters Paris-Saclay n'abolit pas les distances géographiques, et nous devons continuer à **défendre l'existence de bassins propres à l'UVSQ, à Évry et à Saclay**, qui conduisent à des formations spécifiques pour ces territoires, même dans un cadre unifié. 
 
 Dans le cadre de la nouvelle accréditation des formations qui est en train de se dérouler, les formations de l'UVSQ ont des spécificités à défendre au niveau de Saclay comme au niveau national. Les nouvelles instances devront mener une **réflexion autour d'un plan de recrutement d'enseignants-chercheurs** pour répondre au sous-encadrement de notre université. 
 
-Plus largement, nos instances doivent porter **une voix forte auprès du ministère** pour défendre sa dotation, mais également les principes qui sont les notres : défense de l'accès aux études, rejet de la discrimination envers les étudiant.e.s étranger.ère.s, exigeance de concertation pour les réformes des formations.
+Plus largement, nos instances doivent porter **une voix forte auprès du ministère** pour défendre sa dotation, mais également les principes qui sont les nôtres : défense de l'accès aux études, rejet de la discrimination envers les étudiant.e.s étranger.ère.s, exigeance de concertation pour les réformes des formations.
