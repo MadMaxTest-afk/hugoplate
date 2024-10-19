@@ -63,7 +63,7 @@ draft: false
 ### CR
 
 {{< tabs >}}
-{{< tab "Collège C (titulaires d'un doctorat ni dans A ni dans B)" >}}
+{{< tab "Collège C ST (titulaires d'un doctorat ni dans A ni dans B)" >}}
 
 #### Secteur Sciences et technologies
 
@@ -75,7 +75,7 @@ draft: false
 
 {{< /tab >}}
 
-{{< tab "Collège A (professeurs et assimilés)" >}}
+{{< tab "Collège A LSHS (professeurs et assimilés)" >}}
 
 #### Secteur Lettres et sciences humaines et sociales 
 
@@ -87,7 +87,7 @@ draft: false
 
 {{< /tab >}}
 
-{{< tab "Collège C (titulaires d'un doctorat ni dans A ni dans B)" >}}
+{{< tab "Collège C LSHS (titulaires d'un doctorat ni dans A ni dans B)" >}}
 
 #### Secteur lettres et sciences humaines et sociales : 
 
@@ -99,7 +99,7 @@ draft: false
 
 {{< /tab >}}
 
-{{< tab "Collège A (professeurs et assimilés)" >}}
+{{< tab "Collège A SJEG (professeurs et assimilés)" >}}
 
 #### Secteur Sciences juridiques, économiques et de gestion
 
