@@ -106,6 +106,32 @@ draft: false
 | 3  | Carlin-Sinclair | Abel        |
 | 4  | Dumoulin        | Céline      |
 
+{{< /tab >}}
+
+{{< tab "Collège BIATSS [provisoire]" >}}
+
+#### Personnels de bibliothèques, ingénieurs, administratifs, techniques, sociaux et de santé
+
+| #  | Nom             | Prénom      |
+|----|-----------------|-------------|
+| 1  | Petit           | Maximilien  |
+| 2  | Ferrandery      | Louise      |
+| 3  | Carlin-Sinclair | Abel        |
+| 4  | Dumoulin        | Céline      |
+
+{{< /tab >}}
+
+{{< tab "Collège BIATSS [provisoire]" >}}
+
+#### Personnels de bibliothèques, ingénieurs, administratifs, techniques, sociaux et de santé
+
+| #  | Nom             | Prénom      |
+|----|-----------------|-------------|
+| 1  | Petit           | Maximilien  |
+| 2  | Ferrandery      | Louise      |
+| 3  | Carlin-Sinclair | Abel        |
+| 4  | Dumoulin        | Céline      |
+
 
 {{< /tab >}}
 {{< /tabs >}}
