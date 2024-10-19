@@ -43,18 +43,17 @@ draft: false
 
 {{< /tab >}}
 
-{{< tab "Collège BIATSS" >}}
+{{< tab "Collège BIATSS [provisoire]" >}}
 
-#### We know you’re dealing in stolen ore
+#### Personnels de bibliothèques, ingénieurs, administratifs, techniques, sociaux et de santé
 
-| CA       |      CR    |  CFVU |
-| ------------- | :-----------: | ----: |
-| Machine     | Machine   | Machine   |
-| Machin    |   Machin     |   Machin  |
-| Machine|   Machine    |    Machine |
-| Machin|   Machin    |    Machin |
-| Machine|   Machine    |    Machine |
-| Machin|   Machin   |    Machin |
+| #  | Nom             | Prénom      |
+|----|-----------------|-------------|
+| 1  | Petit           | Maximilien  |
+| 2  | Ferrandery      | Louise      |
+| 3  | Carlin-Sinclair | Abel        |
+| 4  | Dumoulin        | Céline      |
+
 
 {{< /tab >}}
 {{< /tabs >}}
