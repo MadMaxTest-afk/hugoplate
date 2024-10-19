@@ -28,11 +28,18 @@ draft: false
 
 {{< tab "Collège B" >}}
 
-#### I wanna talk about the assassination attempt
+#### Autres enseignants-chercheurs, enseignants et assimilés
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+| #  | Nom          | Prénom    | Secteur   |
+|----|--------------|-----------|-----------|
+| 1  | Vial         | Sandrine  | Sciences  |
+| 2  | Villaret     | Emmanuel  | Sciences  |
+| 3  | Kikuchi      | Catherine | LSH       |
+| 4  | Dalmas       | Laurent   | DEG       |
+| 5  | Rochebouet   | Anne      | LSH       |
+| 6  | Rotella      | Yann      | Sciences  |
+| 7  | Guilhamon    | Lise      | LSH       |
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 {{< /tab >}}
 
