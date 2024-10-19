@@ -158,4 +158,33 @@ draft: false
 
 <hr>
 
+### CFVU
+
+{{< tabs >}}
+{{< tab "Collège B (EC, enseignants et personnels assimilés)" >}}
+
+#### Secteur Sciences et technologies
+
+| #  | Nom       | Prénom  |
+|----|-----------|---------|
+| 1  | Garnier   | Florence|
+| 2  | Hadri     | Ferhat  |
+
+{{< /tab >}}
+
+{{< tab "Collège BIATSS" >}}
+
+#### Personnels de bibliothèques, ingénieurs, administratifs, techniques, sociaux et de santé
+
+| #  | Nom        | Prénom    |
+|----|------------|-----------|
+| 1  | Beauchet   | Angèle    |
+| 2  | Djebarra   | Riad      |
+| 3  | Moreau     | Élodie    |
+| 4  | Biaussat   | Christophe|
+
+{{< /tab >}}
+{{< /tabs >}}
+
+<hr>
 
