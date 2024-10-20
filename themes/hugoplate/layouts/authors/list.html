@@ -1,10 +1,15 @@
 {{ define "main" }}
   {{ partial "page-header" . }}
 
-
   <section class="section">
     <div class="container">
       <div class="row">
+        <!-- Phrase ajoutée ici avant la liste des cartes -->
+        <p>
+          Pour en savoir plus sur les candidates et candidats de notre collectif, n'hésitez pas à cliquer sur leur nom.
+        </p>
+        
+        <!-- Boucle pour afficher les cartes des auteurs -->
         {{ range .RegularPages }}
           <div class="md:col-6 lg:col-4 mb-14">
             {{ partial "components/author-card" . }}
