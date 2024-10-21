@@ -43,7 +43,7 @@ draft: false
 
 {{< /tab >}}
 
-{{< tab "Collège BIATSS [provisoire]" >}}
+{{< tab "Collège BIATSS" >}}
 
 #### Personnels de bibliothèques, ingénieurs, administratifs, techniques, sociaux et de santé
 
@@ -53,6 +53,8 @@ draft: false
 | 2  | Ferrandery      | Louise      |
 | 3  | Carlin-Sinclair | Abel        |
 | 4  | Dumoulin        | Céline      |
+| 5  | Pian            | Loïc        |
+| 6  | Tsang-King-Sang | Jessy       |
 
 
 {{< /tab >}}
