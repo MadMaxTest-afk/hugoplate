@@ -39,6 +39,7 @@ draft: false
 | 5  | Rochebouet   | Anne      | LSH       |
 | 6  | Rotella      | Yann      | Sciences  |
 | 7  | Guilhamon    | Lise      | LSH       |
+| 8  | Guillot      | Pascal    | LSH       |
 
 
 {{< /tab >}}
@@ -65,6 +66,18 @@ draft: false
 ### CR
 
 {{< tabs >}}
+{{< tab "Collège A ST (Collège des professeurs et personnels assimilés)" >}}
+
+#### Secteur Sciences et technologies
+
+| #  | Nom       | Prénom  |
+|----|-----------|---------|
+| 1  | Pons-Branchu    | Edwige  |
+
+
+
+{{< /tab >}}
+
 {{< tab "Collège C ST (titulaires d'un doctorat ni dans A ni dans B)" >}}
 
 #### Secteur Sciences et technologies
@@ -109,29 +122,6 @@ draft: false
 |----|------------|---------|
 | 1  | Geronimi   | Vincent |
 | 2  | Hawi       | Rima    |
-
-
-{{< /tab >}}
-
-{{< tab "Collège B (titulaires d'une HDR mais pas dans A)" >}}
-
-#### Non sectorisé : Collège B
-
-| #  | Nom        | Prénom |
-|----|------------|--------|
-| 1  | Strozecki  | Yann   |
-
-
-{{< /tab >}}
-
-{{< tab "Collège D (autres personnels EC, enseignants, chercheurs, et personnels assimilés)" >}}
-
-#### Non sectorisé : Collège D
-
-| #  | Nom       | Prénom  |
-|----|-----------|---------|
-| 1  | Guillot   | Pascal  |
-
 
 {{< /tab >}}
 
