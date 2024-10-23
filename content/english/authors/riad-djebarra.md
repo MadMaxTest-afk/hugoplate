@@ -1,7 +1,7 @@
 ---
 title: Riad Djebarra
 email: riad.djebarra@uvsq.fr
-image: "/images/rd.png"
+image: "/images/rdj.png"
 description: this is meta description
 ---
 
