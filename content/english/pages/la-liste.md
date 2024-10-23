@@ -66,17 +66,6 @@ draft: false
 ### CR
 
 {{< tabs >}}
-{{< tab "Collège A ST (Collège des professeurs et personnels assimilés)" >}}
-
-#### Secteur Sciences et technologies
-
-| #  | Nom       | Prénom  |
-|----|-----------|---------|
-| 1  | Pons-Branchu    | Edwige  |
-
-
-
-{{< /tab >}}
 
 {{< tab "Collège C ST (titulaires d'un doctorat ni dans A ni dans B)" >}}
 
@@ -85,7 +74,7 @@ draft: false
 | #  | Nom       | Prénom  |
 |----|-----------|---------|
 | 1  | Debat     | Hélène  |
-| 2  | Pouyanne  | Nicolas |
+
 
 
 {{< /tab >}}
