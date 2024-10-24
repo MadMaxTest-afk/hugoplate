@@ -1,8 +1,9 @@
 ---
 title: Loïc Pian
-email: samwilson@email.com
-image: "/images/avatar.png"
+email: loic.pian@uvsq.fr
+image: "/images/lps.png"
 description: this is meta description
 ---
 
-[Texte en cours]
+<div align="left">Je suis assistant ingénieur en partenariat, valorisation de la recherche et coopération internationale au sein de l'UMI SOURCE ( UVSQ-IRD)
+</div>
