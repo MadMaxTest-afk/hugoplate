@@ -1,8 +1,9 @@
 ---
 title: Jessy Tsang-King-Sang
-email: samwilson@email.com
+email: Jessy.Tsang@uvsq.fr
 image: "/images/avatar.png"
 description: this is meta description
 ---
 
-[Texte en cours]
+<div align="left">Responsable de l'administration scientifique de l'UMI Soutenabilité et Résilience (SOURCE)
+</div>

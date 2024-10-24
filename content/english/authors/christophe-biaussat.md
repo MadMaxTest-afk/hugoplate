@@ -1,8 +1,9 @@
 ---
 title: Christophe Biaussat
-email: samwilson@email.com
+email: christophe.biaussat@uvsq.fr
 image: "/images/avatar.png"
 description: this is meta description
 ---
 
-[Texte en cours]
+<div align="left">Direction transverse du patrimoine immobilier (DTPI), Service exploitation et maintenance
+</div>
