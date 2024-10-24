@@ -17,8 +17,8 @@ url = "/la-liste"
 weight = 3
 
 [[main]]
-name = "Profession de foi"
-url = "/profession-de-foi"
+name = "Nos propositions"
+url = "/nos-propositions"
 weight = 3
 
 [[main]]

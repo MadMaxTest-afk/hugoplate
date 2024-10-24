@@ -1,5 +1,5 @@
 ---
-title: "Profession de foi"
+title: "Nos propositions"
 # meta title
 meta_title: ""
 # meta description
