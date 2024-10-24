@@ -6,7 +6,7 @@ banner:
   image: "/images/t.png"
   button:
     enable: true
-    label: "Notre profession de foi"
+    label: "Nos propositions détaillées"
     link: "https://uhde.netlify.app/nos-propositions/"
 
 
