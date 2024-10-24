@@ -22,7 +22,7 @@ Globalement, **les conditions matérielles sont bonnes**. On relève tout de mê
 
 Pour ce qui est du management, plusieurs informations à prendre en considération :
 
- – 52 répondantes et répondants indiquent que la prescription des missions se fait par **plusieurs personnes avec des ordres contradictoires**.
+– 52 répondantes et répondants indiquent que la prescription des missions se fait par **plusieurs personnes avec des ordres contradictoires**.
 
 – Il ne semble pas y avoir de problème avec le responsable direct (N+1) concernant le fait d’assumer les responsabilités. **Toutefois, on relève un problème aux échelles plus hautes** (+2 et au-dessus).
 
