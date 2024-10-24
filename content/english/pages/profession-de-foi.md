@@ -92,7 +92,7 @@ Des avancées ont été faites concernant le bilan carbone de l’université et
 
 ## Une réflexion de fond sur la politique de recherche à l'UVSQ 
 
-Nous souhaitons proposer **une réflexion collective et un débat en commission recherche sur les grandes orientations de recherche au sein de l'UVSQ**. Plutôt que de réduire cette commission à une simple chambre d'enregistrement de conventions ou de projets ponctuels, ce pourrait être le lieu pour réfléchir à plus terme sur une politique scientifique ambitieuse et en complémentarité avec les autres universités du périmètre Saclay. Ce pourrait également être le lieu pour aborder la question des carrières au-delà des cas particuliers, en particulier pour établir un bilan de l'égalité homme-femme en recherche à l'UVSQ. 
+Nous souhaitons proposer **une réflexion collective et un débat en commission recherche sur les grandes orientations de recherche au sein de l'UVSQ**. Plutôt que de réduire cette commission à une simple chambre d'enregistrement de conventions ou de projets ponctuels, ce pourrait être le lieu pour réfléchir à plus long terme sur une politique scientifique ambitieuse et en complémentarité avec les autres universités du périmètre Saclay. Ce pourrait également être le lieu pour aborder la question des carrières au-delà des cas particuliers, notamment pour établir un bilan de l'égalité homme-femme en recherche à l'UVSQ. 
 
 Dans un contexte de sous-dotation de l'université, il est nécessaire de **faciliter le financement de la recherche par fonds récurrents au niveau local**, sans procédure administrative complexe et appel à projet supplémentaire en interne. L'attribution des budgets des composantes doit faire l'objet de transparence et de dialogue.
 
