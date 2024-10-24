@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Notre profession de foi"
-    link: "https://uhde.netlify.app/profession-de-foi/"
+    link: "https://uhde.netlify.app/nos-propositions/"
 
 
 ---
