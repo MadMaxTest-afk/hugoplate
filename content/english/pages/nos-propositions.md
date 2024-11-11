@@ -8,6 +8,11 @@ description: "This is meta description"
 draft: false
 ---
 
+button:
+    enable: true
+    label: "Nos propositions détaillées"
+    link: "https://uhde.netlify.app/nos-propositions/"
+
 # Pour la défense de l'université publique et de ses agents : de l’échelle nationale à l’UVSQ
 
 Dans le contexte d'**une politique nationale très dégradée**, il est essentiel que les instances de l'UVSQ soient claires sur la défense de l'université publique et de ses personnels. Les derniers mois ont montré que le gouvernement précédent comme l'actuel font peser des menaces lourdes sur le statut de fonctionnaire, celui des enseignant·e·s, enseignant·e·s-chercheur·e·s et chercheur·e·s, et sur le temps de travail des BIATSS (perte de jours de congé, passage aux 40h). Des réformes ont été poussées sans concertation et selon des calendriers intenables, avant d'être retirées au tout dernier moment, mettant tous les personnels dans des situations extrêmement difficiles. Le financement de l'université est aujourd'hui particulièrement inquiétant et la sous-dotation conduit à des politiques locales mortifères : recours massif aux heures complémentaires, course aux appels à projet, augmentation des tâches administratives... Il est nécessaire d'avoir des élus et élues engagées sur ces questions et vigilantes face aux décisions gouvernementales et à leur application à l'UVSQ.
