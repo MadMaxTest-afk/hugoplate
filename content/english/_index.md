@@ -8,11 +8,5 @@ banner:
     enable: true
     label: "Nos propositions détaillées"
     link: "https://uhde.netlify.app/nos-propositions/"
-    
-  button:
-    enable: true
-    label: "Nos propositions simplifiées"
-    link: "https://lufi.ethibox.fr/r/BSGmpDmrhp#ed/Xxj8P3qbz96MQtjd88WG9NCFzlJc+zHIqOHNxxv0="
-
-
 ---
+<center>{{< button label="Propositions simplifiées" link="https://lufi.ethibox.fr/r/BSGmpDmrhp#ed/Xxj8P3qbz96MQtjd88WG9NCFzlJc+zHIqOHNxxv0=" style="solid" >}}</center>
