@@ -1,5 +1,5 @@
 ---
-title: [BIATSS] Maximilien Petit
+title: BIATSS - Maximilien Petit
 email: maximilien.petit@uvsq.fr
 image: "/images/mp.png"
 description: this is meta description
