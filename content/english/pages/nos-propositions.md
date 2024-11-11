@@ -8,9 +8,10 @@ description: "This is meta description"
 draft: false
 ---
 
-<center>{{< button label="Propositions simplifiées" link="https://lufi.ethibox.fr/r/BSGmpDmrhp#ed/Xxj8P3qbz96MQtjd88WG9NCFzlJc+zHIqOHNxxv0=" style="solid" >}}</center>
-
-<center>{{< button label="Profession de foi" link="https://lufi.ethibox.fr/r/rULrbAw5vN#duKzGG3XKeno/hJNMZlHxxIWE+KJOFvvLmVHsJSsIM8=" style="solid" >}}</center>
+<div style="display: flex; justify-content: center; gap: 20px;">
+    {{< button label="Propositions simplifiées" link="https://lufi.ethibox.fr/r/BSGmpDmrhp#ed/Xxj8P3qbz96MQtjd88WG9NCFzlJc+zHIqOHNxxv0=" style="solid" >}}
+    {{< button label="Profession de foi" link="https://lufi.ethibox.fr/r/rULrbAw5vN#duKzGG3XKeno/hJNMZlHxxIWE+KJOFvvLmVHsJSsIM8=" style="solid" >}}
+</div>
 
 
 # Pour la défense de l'université publique et de ses agents : de l’échelle nationale à l’UVSQ
