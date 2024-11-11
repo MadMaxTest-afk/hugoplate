@@ -5,29 +5,17 @@
     <div class="container">
       <div class="row">
         <!-- Phrase ajoutée ici avant la liste des cartes, centrée et en titre 1 -->
-        <h1 class="text-center mb-8">
+        <h3 class="text-center">
           Pour en savoir plus sur les candidates et candidats de notre collectif, n'hésitez pas à cliquer sur leur nom
-        </h1>
+        </h3>
         
         <!-- Boucle pour afficher les cartes des auteurs -->
         {{ range .RegularPages }}
           <div class="md:col-6 lg:col-4 mb-14">
-            <div class="author-card">
-              <!-- Affiche la photo de l'auteur -->
-              <img src="{{ .Params.image }}" alt="{{ .Title }}" class="author-photo">
-
-              <!-- Affiche le nom de l'auteur -->
-              <h3 class="author-name">{{ .Title }}</h3>
-
-              <!-- Condition pour afficher [BIATSS] si le rôle est BIATSS -->
-              {{ if eq .Params.role "BIATSS" }}
-                <p class="text-center text-sm text-gray-600">[BIATSS]</p>
-              {{ end }}
-            </div>
+            {{ partial "components/author-card" . }}
           </div>
         {{ end }}
       </div>
     </div>
   </section>
 {{ end }}
-
