@@ -1,5 +1,5 @@
 ---
-title: Riad Djebarra
+title: BIATSS - Riad Djebarra
 email: riad.djebarra@uvsq.fr
 image: "/images/rdj.png"
 description: this is meta description

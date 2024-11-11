@@ -1,5 +1,5 @@
 ---
-title: Christophe Biaussat
+title: BIATSS - Christophe Biaussat
 email: christophe.biaussat@uvsq.fr
 image: "/images/avatar.png"
 description: this is meta description

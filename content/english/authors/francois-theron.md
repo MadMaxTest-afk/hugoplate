@@ -1,5 +1,5 @@
 ---
-title: François Théron
+title: BIATSS - François Théron
 email: francois.theron@uvsq.fr
 image: "/images/ft.png"
 description: this is meta description

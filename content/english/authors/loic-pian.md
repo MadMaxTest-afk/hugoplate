@@ -1,5 +1,5 @@
 ---
-title: Loïc Pian
+title: BIATSS - Loïc Pian
 email: loic.pian@uvsq.fr
 image: "/images/lps.png"
 description: this is meta description

@@ -1,5 +1,5 @@
 ---
-title: Élodie Moreau
+title: BIATSS - Élodie Moreau
 email: elodie.moreau@uvsq.fr
 image: "/images/em.png"
 description: this is meta description

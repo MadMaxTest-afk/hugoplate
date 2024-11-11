@@ -1,5 +1,5 @@
 ---
-title: Angèle Beauchet
+title: BIATSS - Angèle Beauchet
 email: angele.beauchet@iut-velizy.uvsq.fr
 image: "/images/ab.png"
 description: this is meta description

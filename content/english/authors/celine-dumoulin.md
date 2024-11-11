@@ -1,5 +1,5 @@
 ---
-title: Céline Dumoulin
+title: BIATSS - Céline Dumoulin
 email: celine.dumoulin@uvsq.fr
 image: "/images/avatar.png"
 description: this is meta description

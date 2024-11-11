@@ -1,5 +1,5 @@
 ---
-title: Abel Carlin-Sinclair
+title: BIATSS - Abel Carlin-Sinclair
 email: abel.carlin@uvsq.fr
 image: "/images/acs.png"
 description: this is meta description

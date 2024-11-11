@@ -1,5 +1,5 @@
 ---
-title: Jessy Tsang-King-Sang
+title: BIATSS - Jessy Tsang-King-Sang
 email: Jessy.Tsang@uvsq.fr
 image: "/images/avatar.png"
 description: this is meta description

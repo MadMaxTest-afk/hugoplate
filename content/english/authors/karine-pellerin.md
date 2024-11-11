@@ -1,5 +1,5 @@
 ---
-title: Karine Pellerin
+title: BIATSS - Karine Pellerin
 email: karine.pellerin@uvsq.fr
 image: "/images/kp.png"
 description: this is meta description

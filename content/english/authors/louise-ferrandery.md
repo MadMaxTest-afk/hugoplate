@@ -1,5 +1,5 @@
 ---
-title: Louise Ferrandery
+title: BIATSS - Louise Ferrandery
 email: louise.ferrandery@uvsq.fr
 image: "/images/avatar.png"
 description: this is meta description
