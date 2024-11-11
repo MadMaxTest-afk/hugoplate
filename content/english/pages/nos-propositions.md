@@ -6,13 +6,9 @@ meta_title: ""
 description: "This is meta description"
 # save as draft
 draft: false
-button:
-    enable: true
-    label: "Nos propositions détaillées"
-    link: "https://uhde.netlify.app/nos-propositions/"
 ---
 
-
+{{< button label="Propositions simplifiées" link="https://uhde.netlify.app/nos-propositions/" style="solid" >}}
 
 # Pour la défense de l'université publique et de ses agents : de l’échelle nationale à l’UVSQ
 
