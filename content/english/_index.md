@@ -8,6 +8,7 @@ banner:
     enable: true
     label: "Nos propositions détaillées"
     link: "https://uhde.netlify.app/nos-propositions/"
+    
   button:
     enable: true
     label: "Nos propositions simplifiées"
