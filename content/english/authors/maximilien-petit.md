@@ -3,6 +3,7 @@ title: Maximilien Petit
 email: maximilien.petit@uvsq.fr
 image: "/images/mp.png"
 description: this is meta description
+role: "BIATSS"
 ---
 
 <div align="left">IGE Chargé des ressources documentaires du laboratoire Centre d’histoire culturelle des sociétés contemporaines.
