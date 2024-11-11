@@ -8,7 +8,7 @@ description: "This is meta description"
 draft: false
 ---
 
-{{< button label="Propositions simplifiées" link="https://uhde.netlify.app/nos-propositions/" style="solid" >}}
+<center>{{< button label="Propositions simplifiées" link="https://lufi.ethibox.fr/r/BSGmpDmrhp#ed/Xxj8P3qbz96MQtjd88WG9NCFzlJc+zHIqOHNxxv0=" style="solid" >}}</center>
 
 # Pour la défense de l'université publique et de ses agents : de l’échelle nationale à l’UVSQ
 
